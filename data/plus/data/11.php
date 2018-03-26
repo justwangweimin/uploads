@@ -1,0 +1,9 @@
+<?php 
+$data=array('0'=>array('link_name'=>'51job','link_url'=>'http://www.51job.com/','link_src'=>'http://www.51job.com/')
+,'1'=>array('link_name'=>'智联招聘','link_url'=>'http://ts.zhaopin.com/','link_src'=>'http://ts.zhaopin.com/')
+,'2'=>array('link_name'=>'58同城招聘','link_url'=>'http://www.58.com/job/','link_src'=>'http://www.58.com/job/')
+,'3'=>array('link_name'=>'赶集网招聘','link_url'=>'http://www.ganji.com/zhaopin/','link_src'=>'http://www.ganji.com/zhaopin/')
+,'4'=>array('link_name'=>'猎聘','link_url'=>'https://www.liepin.com/','link_src'=>'https://www.liepin.com/')
+)
+; 
+?>
